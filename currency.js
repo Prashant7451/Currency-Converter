@@ -4,7 +4,7 @@ const btn = document.getElementById("btn");
 const num = document.getElementById("num");
 const ans = document.getElementById("ans");
 
-fetch("https://api.frankfurter.app/currencies")
+fetch(https:v6.exchangerate-api.com/v6/0265b98fdb7079c748595f24/latest/';))
   .then((data) => data.json())
   .then((data) => {
     display(data);
