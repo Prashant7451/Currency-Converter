@@ -6,6 +6,7 @@ body {
 	background-repeat: no-repeat;
 }
 
+
 .heading {
 	font-family:'Pacifico', cursive;
 	margin: 35px auto 20px;
@@ -24,6 +25,9 @@ hr {
 	border-radius: 5px;
 	background-color: rgba(115, 70, 213, 0.5);
 	color: rgb(27, 2, 2);
+	transition: font-size 1s linear;
+    opacity: 1;
+    transition: opacity 1s linear;
 }
 
 label {
